@@ -1,0 +1,8 @@
+twisted
+pycrypto
+txsocksx
+pyotp
+ipaddress
+dnslib
+psutil
+ntplib
