@@ -17,15 +17,15 @@ Project ArkC tried different approaches to design open source proxy software (or
 
 The following consensus, shared by Project ArkC developers, could explain the goal of Project ArkC:
 
->> **Access to information generated overseas should be democratized, not only among intellectuals but for students and ordinary middle-class Chinese.**
+**Access to information generated overseas should be democratized, not only among intellectuals but for students and ordinary middle-class Chinese.**
 
 It is typical among students and ordinary middle-class Chinese people to be reluctant to pay for VPNs or proxy services for overseas information, so there must be free services so that access to information is genuinely democratized. Such services must also be stable enough for continual use, otherwise users have to spend much time searching for other solutions.
 
->> **Internet connectivity should be provided with neutrality. Proxy or VPN service should be politically neutral, so that the service providers ideally should be able to support their service without external fundings.**
+**Internet connectivity should be provided with neutrality. Proxy or VPN service should be politically neutral, so that the service providers ideally should be able to support their service without external fundings.**
 
 A free proxy or VPN service should not be supported based on advertisements or fundings, because advertisements or fundings might affect the neutrality of the proxy or VPN service. Therefore, the technology used to support the free proxy or VPN service must be affordable.
 
->> **Internet connectivity should not be accomplished at the cost of privacy or security.**
+**Internet connectivity should not be accomplished at the cost of privacy or security.**
 
 The technology / software to support a free proxy or VPN service should be subject to public audit so that a service does not intercept online communication of its users. Ideally, all codes and designs related to the free proxy or VPN service should be open source.
 
