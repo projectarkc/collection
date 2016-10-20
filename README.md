@@ -1,5 +1,4 @@
 Collection of code for Project ArkC
-===================================
 
 **Noah**, on behalf of Project ArkC Team. **September, 2016**.
 
@@ -31,6 +30,8 @@ The technology / software to support a free proxy or VPN service should be subje
 
 **For the above reasons, Project ArkC aims to provide open source proxy solutions with little deployment and operational costs.**
 
+------------------------------------------------------
+
 #### What has this project achieved in technology?
 
 The project provides proxy solutions with following features:
@@ -43,6 +44,8 @@ The project provides proxy solutions with following features:
 
 * Basic NAT-traversal functions
 
+-----------------------------------------------------
+
 #### Why has this project been suspended?
 
 Several factors contribute to the suspension.
@@ -52,6 +55,8 @@ Several factors contribute to the suspension.
 * Moves from major Chinese ISPs (provide end users with Internet service behind NAT) limit the application of the project from the technology aspect.
 
 * Other personal concerns of team members
+
+---------------------------------------------------
  
 #### Who has contributed to this project, apart from the authors of the open source modules used?
 
