@@ -1,4 +1,4 @@
-Collection of code for Project ArkC
+# Collection of code for Project ArkC
 
 **Noah**, on behalf of Project ArkC Team. **September, 2016**.
 
