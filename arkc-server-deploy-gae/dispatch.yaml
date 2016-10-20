@@ -1,0 +1,20 @@
+dispatch:
+        # Activate requests from central server
+        - url: "*/addconn*"
+          module: excitation 
+
+        # Excitation reqeusts from central server
+        - url: "*/excite*"
+          module: excitation
+
+        # Register new certificates
+        #        - url: "*/register/*"
+        #  module: register
+
+        # Process data back from Goagent
+        - url: "*/fetchback*"
+          module: excitation 
+
+        # Process data from MEEK
+        - url: "*/fetchfrom*"
+          module: fetchfrom

@@ -1,0 +1,20 @@
+application: arkc-gae
+module: fetchfrom
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+#automatic-scaling:
+#  max_concurrent_requests: 100
+
+handlers:
+- url: /.*
+  script: arkc.application
+  secure: always
+
+libraries:
+- name: pycrypto
+  version: "latest"
+
+#- name: webob
+#  version: "latest"
